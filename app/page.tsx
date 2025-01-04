@@ -24,7 +24,7 @@ export default function Home() {
 
       {/* Short paragraph */}
       <p className="max-w-lg text-center text-gray-600 leading-relaxed font-[family-name:var(--font-geist-mono)]">
-        Hey there! As you know, I'm Ahmed. At the moment, I am a fourth-year student at The Johns Hopkins University studying Computer Science. After graduating, I will begin my career as a Software Development Engineer at AWS in the beautiful city of Seattle.
+        Hey there! As you know, I am Ahmed. At the moment, I am a fourth-year student at The Johns Hopkins University studying Computer Science. After graduating, I will begin my career as a Software Development Engineer at AWS in the beautiful city of Seattle.
       </p>
 
       {/* Buttons */}

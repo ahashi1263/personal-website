@@ -6,7 +6,7 @@ export default function Home() {
       {/* Avatar */}
       <div className="relative w-56 h-56 rounded-full overflow-hidden ring-4 ring-blue-200">
         <Image
-            src="/avatar.png"
+            src="avatar.png"
             alt="Avatar"
             fill
             className="object-cover"
@@ -15,7 +15,7 @@ export default function Home() {
         </div>
 
         <Image
-            src="personal-website/name_plate.png"
+            src="name_plate.png"
             alt="Name Plate"
             width={460}
             height={100}

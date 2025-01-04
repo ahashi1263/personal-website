@@ -15,7 +15,7 @@ export default function Home() {
         </div>
 
         <Image
-            src="/name_plate.png"
+            src="public/name_plate.png"
             alt="Name Plate"
             width={460}
             height={100}
